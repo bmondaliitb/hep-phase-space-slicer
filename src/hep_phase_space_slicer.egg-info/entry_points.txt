@@ -1,0 +1,2 @@
+[console_scripts]
+hep-phase-space-slicer = phase_space_slicer.app:main

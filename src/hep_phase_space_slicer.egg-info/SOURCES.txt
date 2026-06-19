@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/hep_phase_space_slicer.egg-info/PKG-INFO
+src/hep_phase_space_slicer.egg-info/SOURCES.txt
+src/hep_phase_space_slicer.egg-info/dependency_links.txt
+src/hep_phase_space_slicer.egg-info/entry_points.txt
+src/hep_phase_space_slicer.egg-info/requires.txt
+src/hep_phase_space_slicer.egg-info/top_level.txt
+src/phase_space_slicer/__init__.py
+src/phase_space_slicer/__main__.py
+src/phase_space_slicer/app.py
+src/phase_space_slicer/data.py
